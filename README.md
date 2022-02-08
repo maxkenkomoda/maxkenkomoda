@@ -4,7 +4,7 @@
 TypeScript
 
 ## Hobbies
-Cycling, driving, programming.....etc
+Cycling, driving, create something.....etc
 
 ## Links
 My profile: https://www.max-ken.com</br>
