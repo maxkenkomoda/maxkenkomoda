@@ -1,16 +1,16 @@
-### Hi there 👋
+# About me
 
-<!--
-**maxkenkomoda/maxkenkomoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Likes
+TypeScript
 
-Here are some ideas to get you started:
+## Hobbies
+Cycling, driving, programming.....etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+My profile: https://www.max-ken.com</br>
+My Project: https://github.com/harumax-project</br>
+Scrapbox: https://scrapbox.io/maxkenkomoda/ 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxkenkomoda&layout=compact&theme=onedark
+)](https://github.com/anuraghazra/github-readme-stats)
