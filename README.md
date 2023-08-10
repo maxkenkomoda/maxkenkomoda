@@ -1,7 +1,7 @@
 # About me
 
 ## Likes
-TypeScript
+TypeScript, React, Next.JS
 
 ## Hobbies
 Cycling, driving, create something.....etc
