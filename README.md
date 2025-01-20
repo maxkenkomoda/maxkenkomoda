@@ -7,7 +7,6 @@ TypeScript, Express, React, Next.JS
 Cycling, driving, create something.....etc
 
 ## Links
-My profile: https://www.max-ken.com</br>
-Scrapbox: https://scrapbox.io/maxkenkomoda/ 
+[Scrapbox](https://scrapbox.io/maxkenkomoda/)
 
 
